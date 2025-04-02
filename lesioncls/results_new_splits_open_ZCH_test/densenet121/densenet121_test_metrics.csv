@@ -1,2 +1,0 @@
-fold,acc,lesion_f1_0,lesion_f1_1,lesion_f1_avg,lesion_recall_0,lesion_recall_1,lesion_recall_avg,lesion_specificity_0,lesion_specificity_1,lesion_specificity_avg,auc,pat_acc,pat_f1_0,pat_f1_1,pat_f1_avg,pat_recall_0,pat_recall_1,pat_recall_avg,pat_specificity_0,pat_specificity_1,pat_specificity_avg
-8,0.9527,0.9195,0.9665,0.953,0.939,0.9583,0.9527,0.939,0.9009,0.9199,0.9899,0.9614,0.9264,0.9739,0.9617,0.9497,0.9655,0.9614,0.9497,0.9043,0.927
